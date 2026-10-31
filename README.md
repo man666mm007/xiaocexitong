@@ -31,7 +31,3 @@ Linux 和 macOS 用户可使用对应平台的 Python、虚拟环境和环境变
 ## 测试
 
     .venv\Scripts\python.exe -m unittest discover -s tests -v
-
-## 发布内容
-
-公开源代码包不应包含数据库、上传资料、备份、签名私钥、服务器配置、固定演示凭据、演示数据、虚拟环境、日志或 QA 截图。发布前请检查 ZIP 内容和签名。
